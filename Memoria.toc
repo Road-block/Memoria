@@ -1,0 +1,18 @@
+## Interface: 110002, 40401, 11504
+## Title: Memoria |T134442:16|t
+## Version: 10.0-2
+## Notes: Memoria automatically screenshots various milestones of your characters.
+## IconTexture: Interface\Icons\INV_Misc_Spyglass_03
+## Author: Shadnix
+## X-Credits: Roadblock
+## LoadOnDemand: 0
+## DefaultState: enabled
+## SavedVariables: Memoria_Options
+## SavedVariablesPerCharacter: Memoria_CharBossKillDB, Memoria_CharLevelTimes
+## X-Website: http://cosmocanyon.de
+
+embeds.xml
+locals.xml
+Options.xml
+Options.lua
+Memoria.lua
