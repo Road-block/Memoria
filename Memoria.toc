@@ -1,8 +1,9 @@
-## Interface: 50500, 40402, 11507
+## Interface: 50503,40402,11508,50504
 ## Title: Memoria |T134442:16|t
-## Version: 10.0-4
+## Version: 10.0-5
 ## Notes: Memoria automatically screenshots various milestones of your characters.
 ## IconTexture: Interface\Icons\INV_Misc_Spyglass_03
+## Category: Other
 ## Author: Shadnix
 ## X-Credits: Roadblock
 ## LoadOnDemand: 0
